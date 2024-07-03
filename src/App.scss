@@ -1,0 +1,25 @@
+* {
+  @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+  .link {
+    text-decoration: none;
+    color: inherit;
+
+  }
+  .admin-app,
+  .admin-content {
+    height: 100%;
+    width: 90%;
+    font-family: "Source Sans Pro", sans-serif;
+  }
+  
+  .admin-app {
+    display: flex;
+    position: relative;
+  }
+  
+ 
+}
+
+
+
+/* ... le reste de votre fichier SCSS */
